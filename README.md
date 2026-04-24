@@ -1,1 +1,5 @@
-# Devaloper_Hub_Corporation_Internship_Tasks
+# Developer_Hub_Corporation_Internship_Tasks
+
+## Task 1: Exploring and Visualizing a Simple Dataset
+
+This task establishes the foundational steps of the data science lifecycle by moving beyond mere code execution to critical data evaluation. Through the use of `pandas` for data ingestion and `matplotlib`/`seaborn` for visualization, the core learning focuses on identifying which features carry true predictive power before any modeling begins. Analyzing the Iris dataset reveals that while sepal dimensions show significant class overlap, petal dimensions provide clean boundaries that easily isolate specific classes. Furthermore, visualizing histograms trains the eye to spot bimodal distributions—a crucial red flag indicating distinct underlying subgroups—while boxplots effectively map out interquartile ranges and natural variance (outliers). Mastering these exploratory techniques ensures that future end-to-end projects and classification algorithms are built on a robust, well-understood data architecture rather than blind application.
